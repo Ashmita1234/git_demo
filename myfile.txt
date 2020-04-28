@@ -3,5 +3,5 @@ This is my second line in Git.
 hello ashmita..i have changed your text file
 hi ashu
 
-hello Mam,I'm from Swiggy..Do you want to place an order from Keventers?There is a buy 1 get 1 
+hello Mam,I'm from Swiggy.Do you want to place an order from Keventers?There is a buy 1 get 1 
 offer for you.Waiting for your positive response.
